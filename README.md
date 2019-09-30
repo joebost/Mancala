@@ -12,6 +12,9 @@ mechanical.
 The objective is to get all the stones into the bank. The game is usually played as a race
 between two players, and there are rules allowing interaction. But here we consider a singleplayer solitaire version.
 
-# The Problem
+# Problem
 Design and implement a C++ program that, given any initial configuration of
 stones, determines the minimum number of moves to the goal-state, and the sequence of moves required.
+
+# Solution
+My approach uses a Breadth First Search algorithm to traverse a tree of possible moves given each board position.  The tree is filled with each possible move given a board configuration.  The algorithm iterative does this until the board is solved.  A portion of the assignment was also to ensure no memory leaks and thus, there are checks at the end of the program to ensure all allocated memory is released before termination.
