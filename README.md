@@ -1,5 +1,5 @@
 # Mancala
-Disclaimer: This is an assignment for the course CPSC 2120 taught by Dr. Goddard in Spring 2018.  The description below is taken from the [assignment specification on his website](https://people.cs.clemson.edu/~goddard/handouts/cpsc2120/ASG/asg3.pdf)
+Disclaimer: This is an assignment for the course CPSC 2120 taught by Dr. Goddard at Clemson University in Spring 2018.  The description below is taken from the [assignment specification on his website](https://people.cs.clemson.edu/~goddard/handouts/cpsc2120/ASG/asg3.pdf)
 
 # Introduction
 Mancala is played with 6 “holes” arranged in a circle. One hole is designated “bank”. Each
